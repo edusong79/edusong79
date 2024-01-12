@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 my name is Eduardo
 
-<!--
-**edusong79/edusong79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist Freelancer
 
-Here are some ideas to get you started:
+🌍 A Data Scientist and Statistician with a passion for problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently working on deep-learning (PyTorch) and LLM.
+
+🚀 Always exploring new ways to solve real-world problems through data-driven insights and cutting-edge technology.
+
+🌐 Let's collaborate and innovate together! Connect with me to explore the depths of Data Science.
+
+📫 Reach out to me at [odeverdi@gmail.com] or connect on LinkedIn [https://www.linkedin.com/in/datascienceedu/]
